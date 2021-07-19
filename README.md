@@ -1,6 +1,6 @@
 #   Battle of Grunwald 
-### Historic battle between Poland-Lithuania and Teutonic Order
- ## Table of contents
+## Historic battle between Poland-Lithuania and Teutonic Order
+ ### Table of contents
 * Introduction
 * Technologies
 * Features
