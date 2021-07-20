@@ -9,7 +9,7 @@
 * Deployment
 * Credits
 * Media
-# Introduction
+# Introduction 
  <br>
  This website aims to reinforce medieval facts and knowledge for users interested in the time period.
  <br>
@@ -21,6 +21,13 @@
 The purpose of my project is to create a front-end only website for an event in history, which is regarded as an important battle in the history of Poland and Lithuania. 
 My target audience for this project are users interested in the medieval history of the region.
 
+## User Stories
+* New users looking to improve their knowledge of the event.
+
+    1.
+
+
+* Returning users 
 ### I have included the following for my target audience
 
 * A landing page with facts, images and information
@@ -70,3 +77,30 @@ My target audience for this project are users interested in the medieval history
 * [Git Pod](https://www.gitpod.io/ "I used git pod to create and write my code for the project")
 * [amiresponsive](http://ami.responsivedesign.is/ "I used amiresponsive to check if my site is compatible with different resolution and devices")
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse "I used this developer tool for chrome to check quality and responsiveness")
+* [W3C Markup Validation Service](https://validator.w3.org/ "This was used to validate my HTML5")
+* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ " This was used to validate my CSS")
+
+# Testing
+   
+### Devices
+ 
+
+### Browsers
+
+# Validation and Testing
+
+
+# Site Deployment
+
+# Credits
+
+## Content
+
+## Media
+
+## Acknowledgment
+
+
+
+
+
