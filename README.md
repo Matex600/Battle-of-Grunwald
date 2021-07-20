@@ -2,6 +2,7 @@
 ## Historic battle between Poland-Lithuania and Teutonic Order
  ### Table of contents
 * Introduction
+* User Experience
 * Technologies
 * Features
 * Testing
@@ -15,5 +16,7 @@
  My goal is to create a functioning and informative site detailing an event in the history of my country.
  <br>
  <br>
- 
+
+ # UX
+The purpose of my project is to create a front-end only website for an important event in history, which is regarded as 
 
