@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope&family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+}
+
+h1,
+h2 {
+    font-family: Manrope, sans-serif;
+    text-transform: capitalize;
+    text-align: center;
+    letter-spacing: 3px;
+    color: black;
+}
+
+#title {
+    font-size: 300%;
+    text-decoration: none;
+}
+
+header a {
+    text-decoration: none;
+}
