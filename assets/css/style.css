@@ -91,7 +91,7 @@ header a {
 }
 #battle-location {
     float: right;
-    color: white;
+    color: #080808;
 }
 
 
@@ -116,18 +116,16 @@ footer {
 }
 
 .social-name {
-
-    text-align: center;
-    font-size: 130%;
+    text-align: left;
 }
 
 .social-name li {
     display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
 }
 
 .social-name i {
+    font-size: 160%;
+    margin: 50px;
     padding: 5%;
-    margin: 2%;
+    color: #080808;
 }
