@@ -67,6 +67,18 @@ footer {
 }
 
 .social-name {
-    display: inline;
+    
     text-align: center;
+    font-size: 130%;
+}
+
+.social-name li {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.social-name i {
+    padding: 5%;
+    margin: 2%;
 }
