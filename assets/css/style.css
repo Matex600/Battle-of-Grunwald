@@ -14,7 +14,9 @@ body {
 /* header, main image and nav bar*/
 
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: Manrope, sans-serif;
     text-transform: capitalize;
     text-align: center;
@@ -32,9 +34,10 @@ header a {
     text-decoration: none;
 }
 
-#navbar, #title {
+#navbar,
+#title {
     line-height: 50px;
-} 
+}
 
 #navbar {
     margin-top: 20px;
@@ -42,7 +45,7 @@ header a {
     letter-spacing: 3px;
     display: inline;
     font-size: 120%;
-    
+
 }
 
 #navbar li {
@@ -69,25 +72,51 @@ header a {
 
 /* first section */
 
+#first-section {
+    height: 300px;
+}
+
+#left-center {
+    width: 33%;
+    float: left;
+}
+
+#right-center {
+    height: 80%;
+    width: 50%;
+    float: right;
+    background: url(../images/location\ Grunwald.jpg) no-repeat center center;
+    margin-left: 15px;
+    background-position: right;
+}
+#battle-location {
+    float: right;
+    color: white;
+}
 
 
+/* second section */
 
+#second-section {
+    height: 300px;
+}
 
-
-
-
-
-
-
+#left-bottom {
+    width: 33%;
+    float: right;
+    margin-bottom: 300px;
+}
 
 /* footer and socials */
 
 footer {
     height: 100px;
+    position: relative;
+    margin-top: 100px;
 }
 
 .social-name {
-    
+
     text-align: center;
     font-size: 130%;
 }
