@@ -89,6 +89,7 @@ header a {
     margin-left: 15px;
     background-position: right;
 }
+
 #battle-location {
     float: right;
     color: #080808;
@@ -110,9 +111,11 @@ header a {
 /* footer and socials */
 
 footer {
-    height: 100px;
-    position: relative;
-    margin-top: 100px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
 }
 
 .social-name {
