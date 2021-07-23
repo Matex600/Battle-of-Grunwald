@@ -68,6 +68,7 @@ header a {
     height: 300px;
     width: 100%;
     background: url(../images/Jan_Matejko\,_Bitwa_pod_Grunwaldem.jpg) no-repeat center center;
+    border-radius: 5px;
 }
 
 /* first section */
@@ -93,6 +94,7 @@ header a {
 #battle-location {
     float: right;
     color: #080808;
+    border-radius: 5px;
 }
 
 
@@ -135,24 +137,42 @@ footer {
 
 /* contact and questionnaire */
 
+legend {
+    font-size: 1.25em;
+    padding: 0 0.25em;
+    color: #080808;
+}
+
 .form-section {
-    padding: 2%;
-    margin: 0px;
+    padding: 2em 2em;
+    margin: 1em 0;
     text-align: center;
     border: solid 1px #080808;
+    border-radius: 6px;
     line-height: 70px;
     background-color: #989898;
 }
 
-#contact_h2 {
-    margin-bottom: 25px;
+input[type="submit"] {
+    color: #ffffff;
+    border-radius: 6px;
+    background-color: #080808;
+}
+
+input[type="reset"] {
+    color: #ffffff;
+    border-radius: 6px;
+    background-color: #080808;
 }
 
 label {
     margin: 1px;
     padding: 1px;
+    display: inline-block;
 }
 
 input {
     width: 100px;
+    padding: 1px;
+    border: solid 1px #080808;
 }
