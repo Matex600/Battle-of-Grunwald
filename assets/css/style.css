@@ -137,9 +137,11 @@ footer {
 
 .form-section {
     padding: 2%;
-    margin: 0 30px;
+    margin: 0px;
     float: left;
     border: solid 1px #080808;
+    line-height: 70px;
+    background-color: #989898;
 }
 
 #contact_h2 {
@@ -147,7 +149,7 @@ footer {
 }
 
 label {
-    margin: 2px;
+    margin: 1px;
     padding: 1px;
 }
 
