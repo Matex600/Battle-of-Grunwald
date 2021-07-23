@@ -136,5 +136,21 @@ footer {
 /* contact and questionnaire */
 
 .form-section {
+    padding: 2%;
     margin: 0 30px;
+    float: left;
+    border: solid 1px #080808;
+}
+
+#contact_h2 {
+    margin-bottom: 25px;
+}
+
+label {
+    margin: 2px;
+    padding: 1px;
+}
+
+input {
+    width: 100px;
 }
