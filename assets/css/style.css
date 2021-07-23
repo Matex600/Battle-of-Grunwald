@@ -67,7 +67,7 @@ header a {
 #main-image{
     height: 300px;
     width: 100%;
-    background: url(../images/Jan_Matejko\,_Bitwa_pod_Grunwaldem.jpg);
+    background: url(../images/Jan_Matejko\,_Bitwa_pod_Grunwaldem.jpg) no-repeat center center;
 }
 
 /* first section */
