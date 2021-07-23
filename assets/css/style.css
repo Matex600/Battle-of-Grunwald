@@ -134,3 +134,7 @@ footer {
 }
 
 /* contact and questionnaire */
+
+.form-section {
+    margin: 0 30px;
+}
