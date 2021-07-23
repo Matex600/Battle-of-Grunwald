@@ -113,6 +113,7 @@ header a {
 /* footer and socials */
 
 footer {
+    height: 300px;
     position: fixed;
     left: 0;
     bottom: 0;
@@ -135,6 +136,12 @@ footer {
     color: #080808;
 }
 
+#footer-img {
+    background: url(../images/historic-battle-of-grunwald-Žalgirio-mūšis-lithuania-wallpaper.jpg) no-repeat center center;
+    height: 330px;
+    width: 100%;
+}
+
 /* contact and questionnaire */
 
 legend {
@@ -145,7 +152,7 @@ legend {
 
 .form-section {
     padding: 2em 2em;
-    margin: 1em 0;
+    margin: 1em 1em;
     text-align: center;
     border: solid 1px #080808;
     border-radius: 6px;
