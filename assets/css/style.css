@@ -64,10 +64,10 @@ header a {
     color: #ff8080;
 }
 
-#main-image {
+#main-image{
     height: 300px;
     width: 100%;
-    background: url(../images/Jan_Matejko\,_Bitwa_pod_Grunwaldem.jpg) no-repeat center center;
+    background: url(../images/Jan_Matejko\,_Bitwa_pod_Grunwaldem.jpg);
 }
 
 /* first section */
@@ -138,7 +138,7 @@ footer {
 .form-section {
     padding: 2%;
     margin: 0px;
-    float: left;
+    text-align: center;
     border: solid 1px #080808;
     line-height: 70px;
     background-color: #989898;
