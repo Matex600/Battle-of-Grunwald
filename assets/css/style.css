@@ -140,6 +140,7 @@ footer {
     background: url(../images/historic-battle-of-grunwald-Žalgirio-mūšis-lithuania-wallpaper.jpg) no-repeat center center;
     height: 330px;
     width: 100%;
+    border-radius: 6px;
 }
 
 /* contact and questionnaire */
