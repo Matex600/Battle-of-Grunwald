@@ -9,7 +9,7 @@
 body {
     font-family: Roboto, sans-serif;
     color: #080808;
-    background-color: rgba(152, 152, 152, 0.2);
+    background-color: rgba(152, 152, 152, 0.3);
 }
 
 /* header, main image and nav bar*/
@@ -125,7 +125,7 @@ footer {
 
 .social-name {
     text-align: left;
-    margin-top: 7%;
+    margin-top: 8%;
 }
 
 .social-name li {
@@ -173,10 +173,11 @@ legend {
     background-color: #989898;
     width: 400px;
     height: 300px;
+    margin-top: 80px;
 }
 
 .right-div {
-    margin-top: 20px;
+    margin-top: 100px;
     margin-right: 40px;
     height: 50%;
     border-radius: 6px;
