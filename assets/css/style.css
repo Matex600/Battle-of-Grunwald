@@ -115,7 +115,7 @@ header a {
 
 footer {
     height: 300px;
-    position: fixed;
+    position: absolute;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -124,6 +124,7 @@ footer {
 
 .social-name {
     text-align: left;
+    margin-top: 7%;
 }
 
 .social-name li {
@@ -139,9 +140,10 @@ footer {
 
 #footer-img {
     background: url(../images/historic-battle-of-grunwald-Žalgirio-mūšis-lithuania-wallpaper.jpg) no-repeat center center;
-    height: 330px;
+    height: 100px;
     width: 100%;
     border-radius: 6px;
+    margin-top: 7%;
 }
 
 /* contact and questionnaire */
