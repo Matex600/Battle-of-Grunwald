@@ -9,6 +9,7 @@
 body {
     font-family: Roboto, sans-serif;
     color: #080808;
+    background-color: rgba(152,152,152,0.2);
 }
 
 /* header, main image and nav bar*/
@@ -154,11 +155,12 @@ legend {
 .form-section {
     padding: 2em 2em;
     margin: 1em 1em;
-    text-align: center;
+    text-align: left;
     border: solid 1px #080808;
     border-radius: 6px;
     line-height: 70px;
     background-color: #989898;
+    width: 30%;
 }
 
 input[type="submit"] {
@@ -183,4 +185,10 @@ input {
     width: 100px;
     padding: 1px;
     border: solid 1px #080808;
+}
+
+.embbed-video {
+    width: 600px;
+    height: 450px;
+    float: right;
 }
