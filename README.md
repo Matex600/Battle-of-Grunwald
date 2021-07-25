@@ -63,9 +63,9 @@ My target audience for this project are users interested in the medieval history
 
 # Technologies Used
 ## Coding Languages
-* [HTML5](https://en.wikipedia.org/wiki/HTML5 "Wikipedia page for HTML5 Coding Language"). - This makes the site work
+* [HTML5](https://en.wikipedia.org/wiki/HTML5 "Wikipedia page for HTML5 Coding Language"). - This makes the site work.
 
-* [CSS3](https://en.wikipedia.org/wiki/CSS "Wikipedia page for CSS3 Styling Language") - This styles the site
+* [CSS3](https://en.wikipedia.org/wiki/CSS "Wikipedia page for CSS3 Styling Language") - This styles the site.
 
 ## Libraries and Tools 
 * [Google Fonts](https://fonts.google.com "I used Google Fonts for fonts on my site")
@@ -95,15 +95,19 @@ My target audience for this project are users interested in the medieval history
 # Credits
 
 ## Content
-
+[Facts and Information](https://en.wikipedia.org/wiki/Battle_of_Grunwald "I used wikipedia for my information") - I used wikipedia for my information.
 ## Media
+[Hero Image](https://en.wikipedia.org/wiki/Battle_of_Grunwald#/media/File:Jan_Matejko,_Bitwa_pod_Grunwaldem.jpg "Image source") - Image source.
 
-[Hero Image](https://en.wikipedia.org/wiki/Battle_of_Grunwald#/media/File:Jan_Matejko,_Bitwa_pod_Grunwaldem.jpg "Image source")
+[Embedded Video](https://www.youtube.com/watch?v=VeBOJ0bAI6Q "Embedded video on contact page") - Embedded video on contact page.
 
+[Footer Image](https://hdwallpaperim.com/historic-battle-of-grunwald-zalgirio-musis-lithuania-teutonic-battlefields-painting-poland/ "Footer Image") - Footer Image.
 
 ## Acknowledgment
- 
- 
+ [Code Institute](https://codeinstitute.net/) - Teaching and preparing in HTML and CSS.
 
+ [Kings and Generals](https://www.youtube.com/channel/UCMmaBzfCCwZ2KqaBJjkj0fw "Fantastic channel for historical content") - For content in embedded video and knowledge.
+
+ [Youtube](https://www.youtube.com/) - For embedded video.
 
 
