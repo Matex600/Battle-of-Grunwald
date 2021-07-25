@@ -115,10 +115,14 @@ header a {
 
 #gl-main-section-top {
     height: 300px;
+    border: ridge 0.5px #080808;
+    border-radius: 5px;
 }
 
 #gl-main-section-bottom {
     height: 300px;
+    border: ridge 0.5px #080808;
+    border-radius: 5px;
 }
 
 #left-div-gl {

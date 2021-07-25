@@ -11,7 +11,7 @@
 * Media
 # Introduction 
  <br>
- This website aims to reinforce medieval facts and knowledge for users interested in the time period.
+ This website aims to educate on medieval facts and knowledge for users interested in the event in time.
  <br>
  My goal is to create a functioning and informative site detailing an event in the history of my country.
  <br>
@@ -42,26 +42,29 @@ My target audience for this project are users interested in the medieval history
 * Colours Used
 * Images Used are ones that fit with the purpose of my site and the event and time period I am using.
 
+## Colour Scheme
+* #080808 for text in body.
+* rgba(152, 152, 152, 0.3); for site background with a 0.3 transparency to reduce intensity.
+* #ff8080 for hover function on navigation bar.
+* #989898 for form background-color.
+
 # Site Features
 ### Home Page 
-* Title 
-* Navigation Bar
-* Useful information
+* Facts and information
 * Two sides of the conflict
-*
 ### Glossary Page
 * Characters of importance
-* Weapons used
-* Theatre of war
-
+* Artefacts
 ### Contact Page
-* Questionnaire
-* Contact Details
-
+* Embedded video
+* Contact form
 ### Combined Pages
+* Title
 * Social media links
+* Navigation Bar
 
 # Technologies Used
+
 ## Coding Languages
 * [HTML5](https://en.wikipedia.org/wiki/HTML5 "Wikipedia page for HTML5 Coding Language"). - This makes the site work.
 
