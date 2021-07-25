@@ -95,13 +95,18 @@ My target audience for this project are users interested in the medieval history
 # Credits
 
 ## Content
-[Facts and Information](https://en.wikipedia.org/wiki/Battle_of_Grunwald "I used wikipedia for my information") - I used wikipedia for my information.
+[Facts and Information](https://en.wikipedia.org/wiki/Battle_of_Grunwald "I used wikipedia for my information") - I used wikipedia for my information on the battle.
+[Wladyslaw II Jagiello](https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o) - Information about Polish King
 ## Media
 [Hero Image](https://en.wikipedia.org/wiki/Battle_of_Grunwald#/media/File:Jan_Matejko,_Bitwa_pod_Grunwaldem.jpg "Image source") - Image source.
 
 [Embedded Video](https://www.youtube.com/watch?v=VeBOJ0bAI6Q "Embedded video on contact page") - Embedded video on contact page.
 
 [Footer Image](https://hdwallpaperim.com/historic-battle-of-grunwald-zalgirio-musis-lithuania-teutonic-battlefields-painting-poland/ "Footer Image") - Footer Image.
+
+[Polish King](https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o#/media/File:Wladyslaw_Jagiello.jpg)
+
+[Teuton Grandmaster]()
 
 ## Acknowledgment
  [Code Institute](https://codeinstitute.net/) - Teaching and preparing in HTML and CSS.
