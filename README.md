@@ -47,6 +47,7 @@ My target audience for this project are users interested in the medieval history
 * rgba(152, 152, 152, 0.3); for site background with a 0.3 transparency to reduce intensity.
 * #ff8080 for hover function on navigation bar.
 * #989898 for form background-color.
+* rgba(242, 38, 19, 0.8); for section in glossary.html.
 
 # Site Features
 ### Home Page 
@@ -107,9 +108,9 @@ My target audience for this project are users interested in the medieval history
 
 [Footer Image](https://hdwallpaperim.com/historic-battle-of-grunwald-zalgirio-musis-lithuania-teutonic-battlefields-painting-poland/ "Footer Image") - Footer Image.
 
-[Polish King](https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o#/media/File:Wladyslaw_Jagiello.jpg)
+[Polish King](https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o#/media/File:Wladyslaw_Jagiello.jpg) - Portrait of Wladyslaw Jagiello by Jan Matejko.
 
-[Teuton Grandmaster]()
+[Lithuanian Grand Duke](https://www.pinterest.co.uk/pin/661958845209526399/) - Portrait of Vytautas the Great by Adomas Varnas.
 
 ## Acknowledgment
  [Code Institute](https://codeinstitute.net/) - Teaching and preparing in HTML and CSS.
