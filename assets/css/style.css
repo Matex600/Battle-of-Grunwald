@@ -185,6 +185,13 @@ header a {
     height: 250px;
 }
 
+#gm_img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    float: left;
+}
 
 /* contact and questionnaire */
 
@@ -267,6 +274,7 @@ footer {
 .social-name {
     text-align: left;
     margin-top: 8%;
+    position: absolute;
 }
 
 .social-name li {

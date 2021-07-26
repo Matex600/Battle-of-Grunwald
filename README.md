@@ -106,11 +106,13 @@ My target audience for this project are users interested in the medieval history
 ## Content
 [Facts and Information](https://en.wikipedia.org/wiki/Battle_of_Grunwald "I used wikipedia for my information") - I used wikipedia for my information on the battle.
 
-[Wladyslaw II Jagiello](https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o) - Information about Polish King
+[Wladyslaw II Jagiello](https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o) - Information about Polish King.
 
-[Vytautas the Great](https://en.wikipedia.org/wiki/Vytautas) - Information about Vytautas
+[Vytautas the Great](https://en.wikipedia.org/wiki/Vytautas) - Information about Vytautas.
 
-[Grunwald Swords](https://en.wikipedia.org/wiki/Grunwald_Swords) Information about Grunwald Swors
+[Grunwald Swords](https://en.wikipedia.org/wiki/Grunwald_Swords) Information about Grunwald Swords.
+
+[Ulrich Von Jungingen](https://en.wikipedia.org/wiki/Ulrich_von_Jungingen) - Information about Grandmaster of the Teutons.
 ## Media
 [Hero Image](https://en.wikipedia.org/wiki/Battle_of_Grunwald#/media/File:Jan_Matejko,_Bitwa_pod_Grunwaldem.jpg "Image source") - Image source.
 
@@ -124,7 +126,7 @@ My target audience for this project are users interested in the medieval history
 
 [Two Grunwald Swords ](https://it.wikipedia.org/wiki/File:Wojciech_Kossak,_Dwa_miecze.jpg) - Wojciech Kossak 1909
 
-
+[Ulrich von Jungingen](https://en.wikipedia.org/wiki/Ulrich_von_Jungingen#/media/File:Ulrich_von_Jungingen1.PNG) - Christoph Hartknoch Altes und Neues Preussen 1684
 ## Acknowledgment
  [Code Institute](https://codeinstitute.net/) - Teaching and preparing in HTML and CSS.
 
