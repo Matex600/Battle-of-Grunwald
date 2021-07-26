@@ -9,6 +9,9 @@
 * Deployment
 * Credits
 * Media
+<br>
+# This project is for educational purposes only
+<br>
 # Introduction 
  <br>
  This website aims to educate on medieval facts and knowledge for users interested in the event in time.
@@ -16,6 +19,8 @@
  My goal is to create a functioning and informative site detailing an event in the history of my country.
  <br>
  <br>
+
+
 
  # UX
 The purpose of my project is to create a front-end only website for an event in history, which is regarded as an important battle in the history of Poland and Lithuania. 
@@ -100,7 +105,12 @@ My target audience for this project are users interested in the medieval history
 
 ## Content
 [Facts and Information](https://en.wikipedia.org/wiki/Battle_of_Grunwald "I used wikipedia for my information") - I used wikipedia for my information on the battle.
+
 [Wladyslaw II Jagiello](https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o) - Information about Polish King
+
+[Vytautas the Great](https://en.wikipedia.org/wiki/Vytautas) - Information about Vytautas
+
+[Grunwald Swords](https://en.wikipedia.org/wiki/Grunwald_Swords) Information about Grunwald Swors
 ## Media
 [Hero Image](https://en.wikipedia.org/wiki/Battle_of_Grunwald#/media/File:Jan_Matejko,_Bitwa_pod_Grunwaldem.jpg "Image source") - Image source.
 
@@ -111,6 +121,9 @@ My target audience for this project are users interested in the medieval history
 [Polish King](https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_II_Jagie%C5%82%C5%82o#/media/File:Wladyslaw_Jagiello.jpg) - Portrait of Wladyslaw Jagiello by Jan Matejko.
 
 [Lithuanian Grand Duke](https://www.pinterest.co.uk/pin/661958845209526399/) - Portrait of Vytautas the Great by Adomas Varnas.
+
+[Two Grunwald Swords ](https://it.wikipedia.org/wiki/File:Wojciech_Kossak,_Dwa_miecze.jpg) - Wojciech Kossak 1909
+
 
 ## Acknowledgment
  [Code Institute](https://codeinstitute.net/) - Teaching and preparing in HTML and CSS.
