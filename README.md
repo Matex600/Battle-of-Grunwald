@@ -53,6 +53,7 @@ My target audience for this project are users interested in the medieval history
 * #ff8080 for hover function on navigation bar.
 * #989898 for form background-color.
 * rgba(242, 38, 19, 0.8); for section in glossary.html.
+* rgba(255,255,255, 0.5); as background for div to make text stand out.
 
 # Site Features
 ### Home Page 
