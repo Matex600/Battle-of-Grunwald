@@ -23,9 +23,10 @@ h3 {
     text-align: center;
     letter-spacing: 3px;
     color: #080808;
+    padding-bottom: 10px;
 }
 
-#title {
+.title {
     font-size: 300%;
     text-decoration: none;
     margin-top: 20px;
@@ -35,55 +36,54 @@ header a {
     text-decoration: none;
 }
 
-#navbar,
-#title {
-    line-height: 50px;
+.title {
+    line-height: 40px;
 }
 
-#navbar {
+.navbar {
     margin-top: 20px;
     margin-right: 40px;
     letter-spacing: 3px;
     display: inline;
     font-size: 120%;
-
 }
 
-#navbar li {
+.navbar li {
     list-style-type: none;
     text-align: center;
     float: right;
     margin-right: 50px;
 }
 
-#navbar a {
+.navbar a {
     text-decoration: none;
     color: inherit;
 }
 
-#navbar a:hover {
+.navbar a:hover {
     color: #ff8080;
 }
 
-#main-image {
+.main-image {
     height: 300px;
     width: 100%;
     background: url(../images/Jan_Matejko\,_Bitwa_pod_Grunwaldem.jpg) no-repeat center center;
     border-radius: 5px;
+    margin-top: 20px;
 }
 
 /* first section Index.html */
 
-#first-section {
+.first-section {
     height: 300px;
 }
 
-#left-center {
+.left-center {
     width: 33%;
     float: left;
 }
 
-#right-center {
+.right-center {
     height: 80%;
     width: 50%;
     float: right;
@@ -92,20 +92,17 @@ header a {
     background-position: right;
 }
 
-#battle-location {
+.battle-location {
     float: right;
     color: #080808;
     border-radius: 5px;
 }
 
-
-/* second section Index.html */
-
-#second-section {
+.second-section {
     height: 300px;
 }
 
-#left-bottom {
+.left-bottom {
     width: 33%;
     float: right;
     margin-bottom: 300px;
@@ -113,84 +110,60 @@ header a {
 
 /* glossary.html content */
 
-#gl-main-section-top {
+.gl-main-section {
     height: 300px;
     border-radius: 5px;
     font-size: 1.25em;
+    margin-top: 30px;
 }
 
-#gl-main-section-bottom {
-    height: 300px;
-    border-radius: 5px;
-    font-size: 1.25em;
-}
-
-#left-div-gl {
+.left-div-gl {
     width: 30%;
     margin-left: 30px;
     float: left;
-    border: ridge 5px rgba(242, 38, 19, 0.8);
+    border: ridge 10px rgba(242, 38, 19, 0.8);
+    padding: 10px;
+    background: rgba(255,255,255, 0.5);
 }
 
-#left-div-gl-bot {
-    width: 30%;
-    margin-left: 30px;
-    float: left;
-    border: ridge 5px rgba(242, 38, 19, 0.8);
-}
-
-#center-div-gl {
+.center-div-gl {
     width: 30%;
     margin: 0 auto;
-    border: ridge 5px rgba(242, 38, 19, 0.8);
+    border: ridge 10px rgba(242, 38, 19, 0.8);
+    padding: 10px;
+    background: rgba(255,255,255, 0.5);
 }
 
-#center-div-gl-bot {
-    width: 30%;
-    margin: 0 auto;
-    border: ridge 5px rgba(242, 38, 19, 0.8);
-}
-
-#right-div-gl {
+.right-div-gl {
     width: 30%;
     margin-right: 30px;
     float: right;
-    border: ridge 5px rgba(242, 38, 19, 0.8);
+    border: ridge 10px rgba(242, 38, 19, 0.8);
+    padding: 10px;
+    background: rgba(255,255,255, 0.5);
 }
 
-#right-div-gl-bot {
-    width: 30%;
-    margin-right: 30px;
-    float: right;
-    border: ridge 5px rgba(242, 38, 19, 0.8);
+.right-div-gl h3 {
+    padding-top: 5px;
 }
 
-#king_img {
+.right-div-gl p {
+    padding-top: 15px;
+}
+
+.leaders-img {
     width: 200px;
     height: 200px;
     border-radius: 50%;
     overflow: hidden;
     float: left;
-}
-#g-duke_img {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    overflow: hidden;
-    float: left;
+    padding-right: 10px;
 }
 
-#swords_img {
+.swords_img {
     width: 500px;
     height: 250px;
-}
-
-#gm_img {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    overflow: hidden;
-    float: left;
+    padding-top: 10px;
 }
 
 /* contact and questionnaire */
@@ -205,7 +178,7 @@ legend {
     color: #080808;
 }
 
-#contact-section {
+.contact-section {
     height: 600px;
     width: 100%;
     display: flex;
@@ -213,16 +186,39 @@ legend {
 }
 
 .form-div {
-    padding: 2em 2em;
-    margin: 1em 1em;
-    text-align: left;
+    padding: 1em 1em;
+    margin: 0.5em 0.5em;
     border: solid 1px #080808;
     border-radius: 6px;
-    line-height: 40px;
+    line-height: 45px;
     background-color: #989898;
     width: 400px;
     height: 300px;
     margin-top: 80px;
+}
+
+input[type="submit"] {
+    color: #ffffff;
+    border-radius: 6px;
+    background-color: #080808;
+    width: 100px;
+    
+}
+
+input[type="reset"] {
+    width: 75px;
+}
+    
+
+label {
+    width: 150px;
+    float: left;
+}
+
+input {
+    width: 150px;
+    border: solid 1px #080808;
+    padding: 5px;
 }
 
 .right-div {
@@ -235,46 +231,19 @@ legend {
     margin-left: 100px;
 }
 
-input[type="submit"] {
-    color: #ffffff;
-    border-radius: 6px;
-    background-color: #080808;
-}
-
-input[type="reset"] {
-    color: #ffffff;
-    border-radius: 6px;
-    background-color: #080808;
-}
-
-label {
-    margin: 1px;
-    padding: 1px;
-    display: inline-block;
-}
-
-input {
-    width: 100px;
-    padding: 1px;
-    border: solid 1px #080808;
-}
-
 /* footer and socials */
 
 footer {
-    height: 300px;
-    position: absolute;
+    height: 150px;
     left: 0;
     bottom: 0;
     width: 100%;
     text-align: center;
-    margin-bottom: 60px;
 }
 
 .social-name {
     text-align: left;
     margin-top: 8%;
-    position: absolute;
 }
 
 .social-name li {
@@ -289,10 +258,8 @@ footer {
     margin-bottom: 60px;
 }
 
-#footer-img {
+.footer-img {
     background: url(../images/historic-battle-of-grunwald-Žalgirio-mūšis-lithuania-wallpaper.jpg) no-repeat center center;
-    height: 100px;
     width: 100%;
     border-radius: 6px;
-    margin-top: 7%;
 }
