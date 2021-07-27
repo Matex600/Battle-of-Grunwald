@@ -130,6 +130,10 @@ My target audience for this project are users interested in the medieval history
 [Ulrich von Jungingen](https://en.wikipedia.org/wiki/Ulrich_von_Jungingen#/media/File:Ulrich_von_Jungingen1.PNG) - Christoph Hartknoch Altes und Neues Preussen 1684
 
 [March into Prussia](http://www.imperialteutonicorder.com/id41.html) - January Suchodolski - 1849
+
+[Grunwald Battle](https://www.storiespreschool.com/images/battle_grunwald1.jpg)
+
+[Aftermath of Battle](https://en.wikipedia.org/wiki/Battle_of_Grunwald#/media/File:After_the_Battle_of_Grunwald_-_Alfons_Mucha.jpg) - Alfons Mucha 1924
 ## Acknowledgment
  [Code Institute](https://codeinstitute.net/) - Teaching and preparing in HTML and CSS.
 

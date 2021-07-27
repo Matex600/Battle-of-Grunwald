@@ -104,6 +104,7 @@ header a {
     height: 300px;
     width: 300px;
     float: left;
+    padding-right: 10px;
 }
 
 .second-section {
