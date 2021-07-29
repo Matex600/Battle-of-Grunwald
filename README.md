@@ -147,4 +147,4 @@ I encountered a bug whilst improving responsiveness for mobile devices, I found 
 
  [Grid box](https://css-tricks.com/snippets/css/complete-guide-grid/) - Helped me implement and improve responsive design.
 
-
+ [Avex Design](https://avexdesigns.com/blog/responsive-youtube-embed) - Blog article on making youtube video responsive.
