@@ -92,6 +92,10 @@ My target audience for this project are users interested in the medieval history
 
 # Testing
    
+## Bugs
+I encountered a bug whilst improving responsiveness for mobile devices, I found an edge case between 420 and 440 px I had a difficulty with one character dropping on my h3 tags in the glossary.html
+ making it look less than desireable I fixed this by increasing the font size temporarily with a media query to make more than one character drop to slightly improve design as there might be phones
+ with that px size in the future.
 ### Devices
  
 
@@ -140,5 +144,7 @@ My target audience for this project are users interested in the medieval history
  [Kings and Generals](https://www.youtube.com/channel/UCMmaBzfCCwZ2KqaBJjkj0fw "Fantastic channel for historical content") - For content in embedded video and knowledge.
 
  [Youtube](https://www.youtube.com/) - For embedded video.
+
+ [Grid box](https://css-tricks.com/snippets/css/complete-guide-grid/) - Helped me implement and improve responsive design.
 
 

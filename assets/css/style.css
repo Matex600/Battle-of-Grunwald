@@ -147,33 +147,71 @@ header a {
 /* glossary.html content */
 
 .gl-main-section {
-    height: 300px;
+    display: grid;
+    grid-template-columns: auto;
+    grid-template-rows: auto;
+    grid-template-areas:
+        "wlad vyat ulri"
+        "swords swords know";
+    padding: 0 2rem;
+    column-gap: 20px;
+    row-gap: 20px;
     border-radius: 5px;
     font-size: 1.25em;
     margin-top: 30px;
 }
 
+#wlad {
+    grid-area: wlad;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#vyat {
+    grid-area: vyat;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+#ulri {
+    width: 100%;
+    grid-area: ulri;
+    box-sizing: border-box;
+}
+
+#swords {
+    width: 100%;
+    grid-area: swords;
+    box-sizing: border-box;
+}
+
+#know {
+    grid-area: know;
+    width: 100%;
+    box-sizing: border-box;
+}
+
 .left-div-gl {
-    width: 30%;
-    margin-left: 30px;
-    float: left;
     border: ridge 10px rgba(242, 38, 19, 0.8);
     padding: 10px;
     background: rgba(255, 255, 255, 0.5);
 }
 
 .center-div-gl {
-    width: 30%;
-    margin: 0 auto;
     border: ridge 10px rgba(242, 38, 19, 0.8);
     padding: 10px;
     background: rgba(255, 255, 255, 0.5);
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.swords-content {
+    width: 50%;
+    padding: 15px;
 }
 
 .right-div-gl {
-    width: 30%;
-    margin-right: 30px;
-    float: right;
     border: ridge 10px rgba(242, 38, 19, 0.8);
     padding: 10px;
     background: rgba(255, 255, 255, 0.5);
@@ -187,19 +225,22 @@ header a {
     padding-top: 15px;
 }
 
+.sub-head {
+    font-size: 2rem;
+    margin-top: 15px;
+}
+
 .leaders-img {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    overflow: hidden;
-    float: left;
-    padding-right: 10px;
+    display: block;
+    margin: auto;
 }
 
 .swords_img {
-    width: 500px;
-    height: 250px;
-    padding-top: 10px;
+    width: 100%;
+    height: auto;
 }
 
 /* contact and questionnaire */
@@ -279,7 +320,7 @@ footer {
 
 .social-name {
     text-align: left;
-    margin-top: 8%;
+    margin-top: 5%;
 }
 
 .social-name li {
@@ -302,6 +343,37 @@ footer {
 
 /* Responsive Media Queries */
 
+
+@media screen and (max-width: 1450px) {
+    .gl-main-section {
+        grid-template-areas:
+            "wlad vyat"
+            "swords swords"
+            "ulri know";
+    }
+}
+
+@media screen and (max-width: 930px) {
+    .center-div-gl {
+        flex-direction: column;
+    }
+
+    .swords-content {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .gl-main-section {
+        grid-template-areas:
+            "wlad"
+            "vyat"
+            "swords"
+            "ulri"
+            "know";
+    }
+}
+
 @media screen and (max-width: 760px) {
     .ind-main-section {
         grid-template-areas:
@@ -315,6 +387,22 @@ footer {
         border-radius: 5px;
         font-size: 1em;
         margin-top: 10px;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    .social-name {
+        text-align: center;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        padding-top: 67px;
+    }
+
+    .social-name i {
+        margin: 0;
+        padding: 0;
+        margin-bottom: 0;
     }
 }
 
@@ -340,18 +428,16 @@ footer {
     .navbar li {
         margin-right: 0;
     }
+}
 
-    .social-name {
-        text-align: center;
-        display: flex;
-        justify-content: space-evenly;
-        align-items: center;
-        padding-top: 67px;
+@media screen and (max-width: 504px) {
+    .gl-main-section {
+        font-size: 1.25em;
     }
+}
 
-    .social-name i {
-        margin: 0;
-        padding: 0;
-        margin-bottom: 0;
+@media screen and (max-width: 440px) {
+    .gl-main-section {
+        font-size: 1.5em;
     }
 }
