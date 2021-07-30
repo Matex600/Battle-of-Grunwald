@@ -45,41 +45,78 @@ My target audience for this project are users interested in the medieval history
 
 ### I have included the following for my target audience
 
-* A landing page with facts, images and information
-* A glossary page with persons of interests .ie Commanders and weaponry
-* A contact page with a questionnaire for opinions and feedback
-* A header with Title, hero-image and navigation bar.
-* A Footer with Social links and image.
+* A landing page with facts, images and information.
+* A glossary page with imporant leaders, an artefact and fun facts.
+* A contact page with a contact form and embedded video.
+* A header with Title, hero-image and navigation bar across all pages.
+* A Footer with Social links and image across all pages.
 
 # Site Design
 
 ## Compositon
-* The Manrope font is my choice of font for headings through the site, Roboto for the main font with having a fall back of sans-serif as this is a general font that works well and is easy to read.
-* Colours Used
-* Images Used are ones that fit with the purpose of my site and the event and time period I am using.
+* The Manrope font is used for headings in the site.
+* Roboto font is used for the main text as it compliments Manrope, I also have a fall back of sans-serif as this is a general font that works well and is easy to read.
+* Font Colour I have used is #080808 for headings and text.
+* Images that have been Used fit with the purpose of my site and the event and time period displayed.
 
 ## Colour Scheme
-* #080808 for text in body.
-* rgba(152, 152, 152, 0.3); for site background with a 0.3 transparency to reduce intensity.
-* #ff8080 for hover function on navigation bar.
-* #989898 for form background-color.
-* rgba(242, 38, 19, 0.8); for section in glossary.html.
-* rgba(255,255,255, 0.5); as background for div to make text stand out.
+* #080808 For text in body across the whole page to keep consistency.
+* rgba(152, 152, 152, 0.3); For overall site background with a 0.3 transparency to reduce intensity.
+* #ff8080 For hover function on navigation bar to enable user to see where they hover.
+* #989898 For form background-color to make the form stand out.
+* rgba(255,255,255, 0.5); For div elements in index.html and glossary.html to improve visibility and design.
+
+![Eightshapes Contrast Grid](assets/documents/contrastgrid.png)
 
 # Site Features
+
+## Combined Pages
+### Title
+
+* The title indicates what the page is about at a glance.
+* The title is responsive across Desktop, Tablet and Mobile.
+
+![Title](assets/documents/title.png)
+
+### Navigation
+
+* Includes a responsive navigation bar with Font icons.
+* Has hover function to help user know location of cursor.
+* Fully responsive across Desktop, Tablet and Mobile
+
+![Navigation](assets/documents/navbar.png)
+
+### Social media and footer image
+
+* The footer shows an appropriate image to the time period
+* Social media links for twitter, facebook, instagram, youtube and wikipedia.
+* Includes logos for respective links.
+* Social Links open in new tabs to improve UX.
+
+![Footer](assets/documents/footer.png)
+
+### Hero image
+
+* Every page shares the same image to keep the website consistent.
+* This image was picked due to portraying important historic characters 
+and is part of the visual storytelling for the site letting users imagine what they are reading.
+
+![HeroImage](assets/documents/heroimage.png)
+
 ### Home Page 
-* Facts and information
-* Two sides of the conflict
+* The home page contains the battle timeline and useful information as well as facts.
+* Grid-box layout has been used to help the content stay responsive across multiple screen sizes.
+* 
+
+![HomeContent](assets/documents/indexcontent.png)
+
 ### Glossary Page
 * Characters of importance
 * Artefacts
+
 ### Contact Page
 * Embedded video
 * Contact form
-### Combined Pages
-* Title
-* Social media links
-* Navigation Bar
 
 # Technologies Used
 
