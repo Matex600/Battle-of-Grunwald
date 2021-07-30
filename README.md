@@ -46,7 +46,7 @@ My target audience for this project are users interested in the medieval history
 ### I have included the following for my target audience
 
 * A landing page with facts, images and information.
-* A glossary page with imporant leaders, an artefact and fun facts.
+* A glossary page with important leaders, an artefact and fun facts.
 * A contact page with a contact form and embedded video.
 * A header with Title, hero-image and navigation bar across all pages.
 * A Footer with Social links and image across all pages.
@@ -65,6 +65,7 @@ My target audience for this project are users interested in the medieval history
 * #ff8080 For hover function on navigation bar to enable user to see where they hover.
 * #989898 For form background-color to make the form stand out.
 * rgba(255,255,255, 0.5); For div elements in index.html and glossary.html to improve visibility and design.
+* Using #080808 colour text against rgba(152, 152, 152, 0.3); background I have a score of AA 6.9 pass for accessibility.
 
 ![Eightshapes Contrast Grid](assets/documents/contrastgrid.png)
 
@@ -104,15 +105,20 @@ and is part of the visual storytelling for the site letting users imagine what t
 ![HeroImage](assets/documents/heroimage.png)
 
 ### Home Page 
+
 * The home page contains the battle timeline and useful information as well as facts.
 * Grid-box layout has been used to help the content stay responsive across multiple screen sizes.
-* 
+* The home page is presented as a grid of two columns and two rows and is reduced to one column and one row with smaller device screens such as mobile to aid in viewing.
+* Appropriate images have been used in each section to keeping in theme with the battle and timeline.
 
 ![HomeContent](assets/documents/indexcontent.png)
 
 ### Glossary Page
+
 * Characters of importance
 * Artefacts
+
+![Glossarycontent](assets/documents/glossarycontent.png)
 
 ### Contact Page
 * Embedded video
