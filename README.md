@@ -233,8 +233,9 @@ I did not personally have these devices available to test with but within chrome
 * Firefox Browser
 * Microsoft Edge
 * Opera Web Browser
-* ~~Internet Explorer 11~~
+* ~~Internet Explorer 11~~  
 
+My site does not align properly on Internet explorer 11, this is due to my use of grid-box within my site content grid-box is not fully supported. As Internet explorer 11 has had most software support dropped on November 30th 2020 and will be fully discontinued on July 15th 2022 with 0.85% users. I decided to not support this browser for this project.
 
 ## Bugs
 I encountered a bug whilst improving responsiveness for mobile devices, I found an edge case between 420 and 440 px I had a difficulty with one character dropping on my h3 tags in the glossary.html
@@ -242,8 +243,6 @@ I encountered a bug whilst improving responsiveness for mobile devices, I found 
  with that px size in the future.
 
 I had an issue testing my responsiveness on contact page with iphone 5/SE (320px) where the content inside the form would not align how I would like, I created a media query to change the width to auto and this change made it look more in line.
-
-My site does not align properly on Internet explorer 11 as it has had support dropped on November 30th 2020 and will be fully discontinued on July
 
 # Site Deployment
 
