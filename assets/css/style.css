@@ -247,12 +247,14 @@ header a {
 
 h5 {
     text-decoration: underline;
+    text-align: center;
 }
 
 legend {
     font-size: 1.25em;
     padding: 0 0.25em;
     color: #080808;
+    text-align: center;
 }
 
 .contact-section {
@@ -309,7 +311,7 @@ input {
 }
 
 #vid {
-    width:min(600px, 80%);
+    width: min(600px, 80%);
     margin: 0 auto;
 }
 

@@ -1,44 +1,55 @@
 #   Battle of Grunwald 
 ## Historic battle between Poland-Lithuania and Teutonic Order
- ### Table of contents
-* Introduction
-* User Experience
-* Technologies
-* Features
-* Testing
-* Deployment
-* Credits
-* Media
 <br>
-# This project is for educational purposes only
+
+## This project is for educational purposes only
+
 <br>
+
 # Introduction 
- <br>
- This website aims to educate on medieval facts and knowledge for users interested in the event in time.
- <br>
- My goal is to create a functioning and informative site detailing an event in the history of my country.
- <br>
- <br>
+ 
+ This website aims to educate on medieval facts and knowledge for users interested in the Battle of Grunwald
+ an important event in the history of the region part of the "Northern Crusades".
+
+ My goal is to create a functioning, responsive and informative site detailing an important event.
+ 
 
 
+![amiresponsive](assets/documents/amiresponsive.png)
+
+[Click Here To View The Site Live](https://matex600.github.io/Battle-of-Grunwald/) 
+
+I recommend opening any links with CTRL + Left mouse button.
 
  # UX
 The purpose of my project is to create a front-end only website for an event in history, which is regarded as an important battle in the history of Poland and Lithuania. 
 My target audience for this project are users interested in the medieval history of the region.
 
 ## User Stories
-* New users looking to improve their knowledge of the event.
+* New users looking to.
 
-    1.
+    1. As a new user I want to access easily read information.
+    2. As a new user I want to access the different pages consistently via navigation.
+    3. As a new user I want to find out more with social media and embed video links
+    4. As a new user I want to learn about the event and its history.
+    5. As a new user I want to easily contact the page to find out more.
+    6. As a new user I want to easily view images and consistent content layout.
 
+* Returning users looking to.
+    
+    1. As a returning user I want to see new content.
+    2. As a returning user I want to see layout and style improvements.
+    3. As a returning user I want to see new social links and resources.
+    4. As a returning user I want to be directed to new projects.
+    5. As a returning user I want to engage in more ways with the website.
 
-* Returning users 
 ### I have included the following for my target audience
 
 * A landing page with facts, images and information
-* A contact page with a questionnaire for opinions and feedback
-* Social media links 
 * A glossary page with persons of interests .ie Commanders and weaponry
+* A contact page with a questionnaire for opinions and feedback
+* A header with Title, hero-image and navigation bar.
+* A Footer with Social links and image.
 
 # Site Design
 
