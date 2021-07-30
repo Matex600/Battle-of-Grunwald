@@ -403,15 +403,15 @@ footer {
     }
 }
 
-@media screen and (max-width: 760px) {
+@media screen and (max-width: 768px) {
     .ind-main-section {
         grid-template-areas:
             "events"
             "march"
             "battle"
             "victory";
-        padding: 0 2rem;
-        column-gap: 20px;
+        padding: 0 1rem;
+        column-gap: 16px;
         row-gap: 20px;
         border-radius: 5px;
         font-size: 1em;
