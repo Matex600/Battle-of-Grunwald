@@ -169,15 +169,29 @@ with icons, images, facts and information about the characters.
 
 ### Devices
 
-#### Personal and family devices used for testing.
+#### I visually tested on these devices that I borrowed from friends and family.
+
+ All elements showed up as they are supposed to aswell as being responsive and good performance in loading.
+ Social media and navigation all worked as expected, Social media opened in a new tab,
+ Text stayed inside containers and was well aligned.
+
 * Iphone 12 pro max (1284 x 2778).
+* iOS Safari
 * Iphone 11 pro max (1242 x 2688).
+* Chrome mobile
 * Samsung S20 Ultra (1440 x 3200).
+* Chrome mobile
 * Samsung S10 (1440 x 3040).
+* Chrome mobile
 * Samsung S9+ (1440 x 2960).
+* Chrome mobile
 * One Plus 7 Pro (1440x3120).
+* Firefox Mobile
 
 #### Devices Used for testing within Google Chrome Dev tools.
+
+I did not personally have these devices available to test with but within chrome dev tools they behaved the same as above.
+
 * Moto G4.
 * Galaxy S5.
 * Pixel 2.
