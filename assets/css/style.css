@@ -475,3 +475,9 @@ footer {
         font-size: 1.5em;
     }
 }
+
+@media screen and (max-width: 320px) {
+    .form-div {
+        width: auto;
+    }
+}

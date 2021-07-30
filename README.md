@@ -91,20 +91,30 @@ My target audience for this project are users interested in the medieval history
 * [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ " This was used to validate my CSS")
 
 # Testing
+
+## Validation and Testing
+
+### Devices
+
+### Browsers
    
 ## Bugs
 I encountered a bug whilst improving responsiveness for mobile devices, I found an edge case between 420 and 440 px I had a difficulty with one character dropping on my h3 tags in the glossary.html
  making it look less than desireable I fixed this by increasing the font size temporarily with a media query to make more than one character drop to slightly improve design as there might be phones
  with that px size in the future.
-### Devices
- 
 
-### Browsers
-
-# Validation and Testing
-
+I had an issue testing my responsiveness on contact page with iphone 5/SE (320px) where the content inside the form would not align how I would like, I created a media query to change the width to auto and this change made it look more in line.
 
 # Site Deployment
+
+* The site was deployed to github Pages, below are the steps.
+  1. In the github repository navigate to "settings"
+  2. Scroll down to the "pages" tab
+  3. In the github pages from the source drop down select main/master both are correct.
+  4. Once you select main/master the page will automatically refresh and a link will be available
+with succesful deployment.
+
+Live link to the site -- [Battle of Grunwald](https://matex600.github.io/Battle-of-Grunwald/)--
 
 # Credits
 
@@ -148,3 +158,5 @@ I encountered a bug whilst improving responsiveness for mobile devices, I found 
  [Grid box](https://css-tricks.com/snippets/css/complete-guide-grid/) - Helped me implement and improve responsive design.
 
  [Avex Design](https://avexdesigns.com/blog/responsive-youtube-embed) - Blog article on making youtube video responsive.
+
+ [Favicon](https://www.favicon-generator.org/search/---/Swords) - I used this site to download and link a favicon to my site.
