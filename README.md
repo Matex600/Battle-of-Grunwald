@@ -2,7 +2,7 @@
 ## Historic battle between Poland-Lithuania and Teutonic Order
 <br>
 
-## This project is for educational purposes only
+### This project is for educational purposes only
 
 <br>
 
@@ -155,10 +155,40 @@ with icons, images, facts and information about the characters.
 
 ## Validation and Testing
 
+
 ### Devices
+
+#### Personal and family devices used for testing.
+* Iphone 12 pro max (1284 x 2778).
+* Iphone 11 pro max (1242 x 2688).
+* Samsung S20 Ultra (1440 x 3200).
+* Samsung S10 (1440 x 3040).
+* Samsung S9+ (1440 x 2960).
+* One Plus 7 Pro (1440x3120).
+
+#### Devices Used for testing within Google Chrome Dev tools.
+* Moto G4.
+* Galaxy S5.
+* Pixel 2.
+* Pixel 2 XL.
+* Iphone 5/SE.
+* Iphone 6/7/8.
+* Iphone 6/7/8 Plus.
+* Iphone X.
+* Ipad.
+* Ipad Pro.
+* Galaxy Fold.
+* Surface Duo.
 
 ### Browsers
    
+* Google Chrome 
+* Google Chrome Dev tools
+* Firefox Browser
+* Microsoft Edge
+* Opera Web Browser
+
+
 ## Bugs
 I encountered a bug whilst improving responsiveness for mobile devices, I found an edge case between 420 and 440 px I had a difficulty with one character dropping on my h3 tags in the glossary.html
  making it look less than desireable I fixed this by increasing the font size temporarily with a media query to make more than one character drop to slightly improve design as there might be phones
