@@ -156,9 +156,11 @@ with icons, images, facts and information about the characters.
 
 ## Validation 
 
+### Html
+
 * [W3C Markup Validation Service](https://validator.w3.org/ "This was used to validate my HTML5")
-  * [Index]
-  * [Glossary](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmatex600.github.io%2FBattle-of-Grunwald%2Fglossary.html) - Glossary Results.
+  * [Index](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmatex600.github.io%2FBattle-of-Grunwald%2Findex.html) - Index.html Results
+  * [Glossary](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmatex600.github.io%2FBattle-of-Grunwald%2Fglossary.html) - Glossary.html Results.
   * [Contact]
 
 
