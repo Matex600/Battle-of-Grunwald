@@ -151,12 +151,13 @@ with icons, images, facts and information about the characters.
 * [Git Pod](https://www.gitpod.io/ "I used git pod to create and write my code for the project")
 * [amiresponsive](http://ami.responsivedesign.is/ "I used amiresponsive to check if my site is compatible with different resolution and devices")
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse "I used this developer tool for chrome to check quality and responsiveness")
-* [W3C Markup Validation Service](https://validator.w3.org/ "This was used to validate my HTML5")
-* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ " This was used to validate my CSS")
 
 # Testing
 
-## Validation and Testing
+## Validation 
+
+* [W3C Markup Validation Service](https://validator.w3.org/ "This was used to validate my HTML5")
+* [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ " This was used to validate my CSS")
 
 
 ### Devices
