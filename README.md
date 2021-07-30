@@ -170,10 +170,15 @@ with icons, images, facts and information about the characters.
 ### Devices
 
 #### I visually tested on these devices that I borrowed from friends and family.
+* Personal Devices
 
- All elements showed up as they are supposed to aswell as being responsive and good performance in loading.
- Social media and navigation all worked as expected, Social media opened in a new tab,
- Text stayed inside containers and was well aligned.
+   1. All elements showed up as they are supposed to aswell as being responsive and good performance in loading.
+
+   2. Social media and navigation all worked as expected, Social media opened in a new tab,
+
+   3. Text stayed inside containers and was well aligned.
+
+   4. Form element validation worked as intended and an action was made.
 
 * Iphone 12 pro max (1284 x 2778).
 * iOS Safari
@@ -207,6 +212,22 @@ I did not personally have these devices available to test with but within chrome
 
 ### Browsers
    
+* Tested on a windows 10 desktop and a screen of 2560x1440, 27".
+   
+   * After testing on all the browsers below.
+   
+     1. All elements were aligned properly and text did not escape its div.
+
+     2. Images appeared as they were intended to.
+
+     3. All social Links worked as intended and opened a new tab.
+
+     4. Navigation worked as intended taking me to required page.
+
+     5. Form element validation worked as intended and an action was made.
+     
+<br>
+
 * Google Chrome 
 * Google Chrome Dev tools
 * Firefox Browser
