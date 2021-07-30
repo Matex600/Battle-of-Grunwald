@@ -187,6 +187,7 @@ with icons, images, facts and information about the characters.
 * Firefox Browser
 * Microsoft Edge
 * Opera Web Browser
+* ~~Internet Explorer 11~~
 
 
 ## Bugs
@@ -195,6 +196,8 @@ I encountered a bug whilst improving responsiveness for mobile devices, I found 
  with that px size in the future.
 
 I had an issue testing my responsiveness on contact page with iphone 5/SE (320px) where the content inside the form would not align how I would like, I created a media query to change the width to auto and this change made it look more in line.
+
+My site does not align properly on Internet explorer 11 as it has had support dropped on November 30th 2020 and will be fully discontinued on July
 
 # Site Deployment
 
