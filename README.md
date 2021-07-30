@@ -58,6 +58,7 @@ My target audience for this project are users interested in the medieval history
 * Roboto font is used for the main text as it compliments Manrope, I also have a fall back of sans-serif as this is a general font that works well and is easy to read.
 * Font Colour I have used is #080808 for headings and text.
 * Images that have been used fit with the purpose of my site and the event and time period displayed.
+* Font size for the site is larger than normal for most sections this is why I was happy with the contrast ratio below.
 
 ## Colour Scheme
 * #080808 For text in body across the whole page to keep consistency.
@@ -65,7 +66,9 @@ My target audience for this project are users interested in the medieval history
 * #ff8080 For hover function on navigation bar to enable user to see where they hover.
 * #989898 For form background-color to make the form stand out.
 * rgba(255,255,255, 0.5); For div elements in index.html and glossary.html to improve visibility and design.
-* Using #080808 colour text against rgba(152, 152, 152, 0.3); background I have a score of AA 6.9 pass for accessibility.
+* Using #080808 colour text against rgba(152, 152, 152, 0.3); background I have a contrast ratio AA 6.9:1 pass for accessibility.
+* I created my colour scheme in hex but I wanted to have specific opacity, instead of two lines of code I changed them to rgba values
+
 
 ![Eightshapes Contrast Grid](assets/documents/contrastgrid.png)
 
