@@ -115,14 +115,21 @@ and is part of the visual storytelling for the site letting users imagine what t
 
 ### Glossary Page
 
-* Characters of importance
-* Artefacts
+* The Glossary page shows important characters for Poland, Lithuania and the Teutonic order.
+with icons, images, facts and information about the characters.
+* The Glossary page shows the Two swords of Grunwald artefact presented to Poland and Lithuania as a mocking gift.
+* The Glossary page has a "did you know?" section showing some interesting facts for the time period.
+* The page uses Grid-box to help with responsiveness as the number of columns reduce according to screensize.
 
 ![Glossarycontent](assets/documents/glossarycontent.png)
 
 ### Contact Page
-* Embedded video
-* Contact form
+
+* The contact page includes a contact form to be notified about future content.
+* The contact page contains an well put together embedded video made by Kings and Generals relating to the Battle of Grunwald and can help further knowledge for someone that prefers a moving visual representation.
+* The contact page is fully responsive across Desktop, Tablet and Mobile.
+
+![Contactcontent](assets/documents/contactcontent.png)
 
 # Technologies Used
 
