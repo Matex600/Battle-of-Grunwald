@@ -53,11 +53,11 @@ My target audience for this project are users interested in the medieval history
 
 # Site Design
 
-## Compositon
+## Composition
 * The Manrope font is used for headings in the site.
 * Roboto font is used for the main text as it compliments Manrope, I also have a fall back of sans-serif as this is a general font that works well and is easy to read.
 * Font Colour I have used is #080808 for headings and text.
-* Images that have been Used fit with the purpose of my site and the event and time period displayed.
+* Images that have been used fit with the purpose of my site and the event and time period displayed.
 
 ## Colour Scheme
 * #080808 For text in body across the whole page to keep consistency.
