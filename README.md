@@ -19,7 +19,7 @@
 
 [Click Here To View The Site Live](https://matex600.github.io/Battle-of-Grunwald/) 
 
-I recommend opening any links with CTRL + Left mouse button.
+I recommend opening any links in this document with Ctrl + Left mouse button.
 
  # UX
 The purpose of my project is to create a front-end only website for an event in history, which is regarded as an important battle in the history of Poland and Lithuania. 
@@ -166,6 +166,7 @@ with icons, images, facts and information about the characters.
 
  Warning regarding section headers on a section that held my hero image I removed this section as it didn't need to be there.
 
+### CSS
 
 * [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ " This was used to validate my CSS")
 
@@ -302,7 +303,7 @@ Live link to the site -- [Battle of Grunwald](https://matex600.github.io/Battle-
 
 [Vytautas the Great](https://en.wikipedia.org/wiki/Vytautas) - Information about Vytautas.
 
-[Grunwald Swords](https://en.wikipedia.org/wiki/Grunwald_Swords) Information about Grunwald Swords.
+[Grunwald Swords](https://en.wikipedia.org/wiki/Grunwald_Swords) - Information about Grunwald Swords.
 
 [Ulrich Von Jungingen](https://en.wikipedia.org/wiki/Ulrich_von_Jungingen) - Information about Grandmaster of the Teutons.
 ## Media
@@ -322,7 +323,7 @@ Live link to the site -- [Battle of Grunwald](https://matex600.github.io/Battle-
 
 [March into Prussia](http://www.imperialteutonicorder.com/id41.html) - January Suchodolski - 1849
 
-[Grunwald Battle](https://www.storiespreschool.com/images/battle_grunwald1.jpg)
+[Grunwald Battle](https://www.storiespreschool.com/images/battle_grunwald1.jpg) - Artur Orlionov
 
 [Aftermath of Battle](https://en.wikipedia.org/wiki/Battle_of_Grunwald#/media/File:After_the_Battle_of_Grunwald_-_Alfons_Mucha.jpg) - Alfons Mucha 1924
 ## Acknowledgment
