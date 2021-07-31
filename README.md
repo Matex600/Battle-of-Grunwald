@@ -68,6 +68,7 @@ My target audience for this project are users interested in the medieval history
 * rgba(255,255,255, 0.5); For div elements in index.html and glossary.html to improve visibility and design.
 * Using #080808 colour text against rgba(152, 152, 152, 0.3); background I have a contrast ratio AA 6.9:1 pass for accessibility.
 * I created my colour scheme in hex but I wanted to have specific opacity, instead of two lines of code I changed them to rgba values
+* I fixed the active hover from #ff8080 to an underline to aid in accessability.
 
 
 ![Eightshapes Contrast Grid](assets/documents/contrastgrid.png)
