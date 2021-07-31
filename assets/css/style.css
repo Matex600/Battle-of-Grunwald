@@ -309,7 +309,7 @@ input {
 }
 
 #vid {
-    width: min(600px, 80%);
+    width: min(850px, 80%);
     margin: 0 auto;
 }
 
