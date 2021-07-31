@@ -163,11 +163,16 @@ with icons, images, facts and information about the characters.
   * [Glossary Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmatex600.github.io%2FBattle-of-Grunwald%2Fglossary.html)
   * [Contact Results](https://validator.w3.org/nu/?doc=https%3A%2F%2Fmatex600.github.io%2FBattle-of-Grunwald%2Fcontact.html)
 
-* 1 warning regarding section headers which are there where appropriate but because the way I used gridbox I think its not noticing the h2 in the div.
+ Warning regarding section headers on a section that held my hero image I removed this section as it didn't need to be there.
 
 
 * [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ " This was used to validate my CSS")
 
+* [CSS Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmatex600.github.io%2FBattle-of-Grunwald%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+[![Valid CSS!](http://jigsaw.w3.org/css-validator/images/vcss)](http://jigsaw.w3.org/css-validator/check/referer)
+    
+[![Valid CSS!](http://jigsaw.w3.org/css-validator/images/vcss-blue)](http://jigsaw.w3.org/css-validator/check/referer)
 
 ### Devices
 
