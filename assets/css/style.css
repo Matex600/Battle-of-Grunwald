@@ -455,8 +455,8 @@ footer {
 @media screen and (max-width: 600px) {
     .battle-img {
         display: block;
-        height: 230px;
-        width: 270px;
+        height: 210px;
+        width: 248px;
         padding-right: 0;
     }
 
