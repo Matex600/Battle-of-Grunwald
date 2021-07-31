@@ -375,7 +375,7 @@ footer {
 
 /* Responsive Media Queries */
 
-
+/* Laptop screens */
 @media screen and (max-width: 1450px) {
     .gl-main-section {
         grid-template-areas:
@@ -384,7 +384,7 @@ footer {
             "ulri know";
     }
 }
-
+/* Small laptops */
 @media screen and (max-width: 1030px) {
     .battle-img {
         float: none;
@@ -413,7 +413,7 @@ footer {
             "know";
     }
 }
-
+/* Tablets */
 @media screen and (max-width: 800px) {
     .main-image {
         height: 300px;
@@ -443,6 +443,7 @@ footer {
         font-size: 1em;
         margin-top: 10px;
     }
+
     .battle-img {
         float: left;
     }
@@ -487,7 +488,7 @@ footer {
         margin-right: 0;
     }
 }
-
+/* Mobile Screens */
 @media screen and (max-width: 504px) {
     .gl-main-section {
         font-size: 1.25em;
