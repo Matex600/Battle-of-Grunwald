@@ -406,6 +406,20 @@ footer {
     }
 }
 
+@media screen and (max-width: 800px) {
+    .main-image {
+        height: 300px;
+        width: 100%;
+        background: url(../images/Jan_Matejko\,_Bitwa_pod_Grunwaldem-mobile.jpg) no-repeat center center;
+        border-radius: 5px;
+        margin-top: 20px;
+    }
+    .footer-img {
+        background: url(../images/historic-battle-of-grunwald-Žalgirio-mūšis-lithuania-wallpaper-mobile.jpg) no-repeat center center;
+    }
+    
+}
+
 @media screen and (max-width: 768px) {
     .ind-main-section {
         grid-template-areas:
