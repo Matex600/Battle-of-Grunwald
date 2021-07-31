@@ -200,11 +200,16 @@ Desktop Test 2
 
 ![Desktop Test 2](assets/documents/lighthouse-desktop-final.png)
 
-Mobile Test 2
+Mobile Test 3
 
 ![Mobile Test 2](assets/documents/lighthouse-mobile-final.png)
 
-The changes implemented above have helped to increase the performance of mobile considerably.
+The changes implemented above have helped to increase the performance of mobile considerably,
+after a family member noticed text on the home page was not aligning on his device I implemented
+fixes to my media queries and resolved the issue.
+I re-tested on lighthouse and my changes yielded a higher score on performance.
+
+After all of these changes the desktop test stayed the same.
 
 ### Devices
 
