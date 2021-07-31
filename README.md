@@ -320,4 +320,4 @@ Live link to the site -- [Battle of Grunwald](https://matex600.github.io/Battle-
 
  [Avex Design](https://avexdesigns.com/blog/responsive-youtube-embed) - Blog article on making youtube video responsive.
 
- [Favicon](https://www.favicon-generator.org/search/---/Swords) - I used this site to download and link a favicon to my site.
+ [Favicon](https://favicon.io/) - I used this site to download and link a favicon to my site.
