@@ -455,8 +455,8 @@ footer {
 @media screen and (max-width: 600px) {
     .battle-img {
         display: block;
-        height: 210px;
-        width: 290px;
+        height: auto;
+        width: 100%;
         padding-right: 0;
     }
 
@@ -479,6 +479,10 @@ footer {
 @media screen and (max-width: 504px) {
     .gl-main-section {
         font-size: 1.25em;
+    }
+    .battle-img {
+        height: auto;
+        width: 100%;
     }
 }
 
