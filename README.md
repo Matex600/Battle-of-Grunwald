@@ -168,11 +168,25 @@ with icons, images, facts and information about the characters.
 
 * [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/ " This was used to validate my CSS")
 
-* [CSS Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmatex600.github.io%2FBattle-of-Grunwald%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+   * [CSS Results](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fmatex600.github.io%2FBattle-of-Grunwald%2Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 [![Valid CSS!](http://jigsaw.w3.org/css-validator/images/vcss)](http://jigsaw.w3.org/css-validator/check/referer)
     
 [![Valid CSS!](http://jigsaw.w3.org/css-validator/images/vcss-blue)](http://jigsaw.w3.org/css-validator/check/referer)
+
+## Lighthouse
+
+### First Phase
+
+Desktop
+
+![Desktop Test 1](assets/documents/desktop-lighthouse1.PNG)
+
+Mobile
+
+![Mobile Test 1](assets/documents/mobile-lighthouse1.PNG)
+
+
 
 ### Devices
 
