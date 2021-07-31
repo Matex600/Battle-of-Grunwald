@@ -178,16 +178,31 @@ with icons, images, facts and information about the characters.
 
 ### First Phase
 
-Desktop
+Desktop Test 1
 
 ![Desktop Test 1](assets/documents/desktop-lighthouse1.PNG)
 
-Mobile
+Mobile Test 1
 
 ![Mobile Test 1](assets/documents/mobile-lighthouse1.PNG)
 
+After the first Lighthouse test I identified issues with mobile performance that were caused by the hero and footer image being too large and this decreased performance.
+
+I improved this by creating new versions of the images with smaller sizes for mobile screens of 800px and below via media query.
+
+I also found that my original favicon decreased performance so this has been changed.
+
 ### Second Phase
 
+Desktop Test 2
+
+![Desktop Test 2](assets/documents/lighthouse-desktop-final.png)
+
+Mobile Test 2
+
+![Mobile Test 2](assets/documents/lighthouse-mobile-final.png)
+
+The changes implemented above have helped to increase the performance of mobile considerably.
 
 ### Devices
 
