@@ -70,7 +70,7 @@ header a {
 
 .active,
 a:hover {
-    color: #ff8080;
+    text-decoration: underline;
 }
 
 .main-image {
