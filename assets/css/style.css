@@ -385,6 +385,14 @@ footer {
     }
 }
 
+@media screen and (max-width: 1030px) {
+    .battle-img {
+        float: none;
+        display: block;
+        margin: 0 auto 10px;
+    }
+}
+
 @media screen and (max-width: 930px) {
     .center-div-gl {
         flex-direction: column;
@@ -414,10 +422,11 @@ footer {
         border-radius: 5px;
         margin-top: 20px;
     }
+
     .footer-img {
         background: url(../images/historic-battle-of-grunwald-Žalgirio-mūšis-lithuania-wallpaper-mobile.jpg) no-repeat center center;
     }
-    
+
 }
 
 @media screen and (max-width: 768px) {
@@ -433,6 +442,9 @@ footer {
         border-radius: 5px;
         font-size: 1em;
         margin-top: 10px;
+    }
+    .battle-img {
+        float: left;
     }
 }
 
@@ -480,6 +492,7 @@ footer {
     .gl-main-section {
         font-size: 1.25em;
     }
+
     .battle-img {
         height: auto;
         width: 100%;
