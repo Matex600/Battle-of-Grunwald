@@ -69,6 +69,11 @@ header a {
     color: #ff8080;
 }
 
+.active,
+a:hover {
+    color: #ff8080;
+}
+
 .main-image {
     height: 300px;
     width: 100%;
